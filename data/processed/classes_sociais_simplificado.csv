@@ -1,0 +1,8 @@
+classe,descricao,faixa_renda,renda_maxima
+extrema_pobreza,"Até 0,25 SM","Até 0,25 SM",330.0
+pobreza,"0,25 a 1 SM","0,25-1 SM",1320.0
+vulnerabilidade,1 a 2 SM,1-2 SM,2640.0
+classe_media_baixa,2 a 4 SM,2-4 SM,5280.0
+classe_media,4 a 10 SM,4-10 SM,13200.0
+classe_media_alta,10 a 20 SM,10-20 SM,26400.0
+classe_alta,Acima de 20 SM,Acima de 20 SM,

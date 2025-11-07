@@ -1,0 +1,164 @@
+NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Unidade da Federação (Código),Unidade da Federação,Ano (Código),Ano,Variável (Código),Variável
+3,Unidade da Federação,1702,Razão,31.51,11,Rondônia,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,29,11,Rondônia,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,117.92,11,Rondônia,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,30.14,11,Rondônia,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,29,11,Rondônia,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,125.51,11,Rondônia,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,12,Acre,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,-,12,Acre,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,12,Acre,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,12,Acre,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,-,12,Acre,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,12,Acre,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,17.52,13,Amazonas,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,19,13,Amazonas,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,107.01,13,Amazonas,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,19.18,13,Amazonas,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,19,13,Amazonas,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,109.71,13,Amazonas,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,14,Roraima,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,-,14,Roraima,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,14,Roraima,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,14,Roraima,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,-,14,Roraima,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,14,Roraima,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,29.54,15,Pará,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,24,15,Pará,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,111.61,15,Pará,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,29.91,15,Pará,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,24,15,Pará,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,111.93,15,Pará,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,28.52,16,Amapá,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,25,16,Amapá,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,102.60,16,Amapá,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,29.59,16,Amapá,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,25,16,Amapá,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,101.02,16,Amapá,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,69.34,17,Tocantins,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,32,17,Tocantins,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,128.45,17,Tocantins,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,70.09,17,Tocantins,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,31,17,Tocantins,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,126.62,17,Tocantins,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,50.15,21,Maranhão,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,29,21,Maranhão,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,105.43,21,Maranhão,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,49.60,21,Maranhão,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,29,21,Maranhão,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,104.85,21,Maranhão,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,64.73,22,Piauí,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,32,22,Piauí,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,107.23,22,Piauí,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,62.10,22,Piauí,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,31,22,Piauí,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,106.65,22,Piauí,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,53.69,23,Ceará,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,30,23,Ceará,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,103.93,23,Ceará,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,42.11,23,Ceará,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,23,Ceará,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,103.58,23,Ceará,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,45.43,24,Rio Grande do Norte,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,29,24,Rio Grande do Norte,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,100.61,24,Rio Grande do Norte,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,43.71,24,Rio Grande do Norte,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,24,Rio Grande do Norte,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,100.12,24,Rio Grande do Norte,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,32.16,25,Paraíba,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,25,Paraíba,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,93.02,25,Paraíba,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,42.91,25,Paraíba,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,29,25,Paraíba,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,95.32,25,Paraíba,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,44.39,26,Pernambuco,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,26,Pernambuco,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,104.29,26,Pernambuco,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,44.76,26,Pernambuco,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,26,Pernambuco,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,104.07,26,Pernambuco,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,37.04,27,Alagoas,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,24,27,Alagoas,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,110.80,27,Alagoas,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,34.00,27,Alagoas,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,24,27,Alagoas,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,110.67,27,Alagoas,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,41.19,28,Sergipe,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,28,Sergipe,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,101.93,28,Sergipe,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,37.85,28,Sergipe,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,27,28,Sergipe,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,102.25,28,Sergipe,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,55.66,29,Bahia,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,31,29,Bahia,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,102.50,29,Bahia,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,53.09,29,Bahia,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,30,29,Bahia,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,101.80,29,Bahia,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,61.54,31,Minas Gerais,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,31,31,Minas Gerais,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,107.42,31,Minas Gerais,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,56.14,31,Minas Gerais,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,29,31,Minas Gerais,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,107.25,31,Minas Gerais,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,41.32,32,Espírito Santo,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,32,Espírito Santo,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,98.28,32,Espírito Santo,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,47.18,32,Espírito Santo,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,30,32,Espírito Santo,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,102.69,32,Espírito Santo,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,59.44,33,Rio de Janeiro,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,32,33,Rio de Janeiro,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,96.93,33,Rio de Janeiro,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,54.27,33,Rio de Janeiro,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,31,33,Rio de Janeiro,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,95.09,33,Rio de Janeiro,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,75.80,35,São Paulo,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,34,35,São Paulo,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,110.03,35,São Paulo,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,71.44,35,São Paulo,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,33,35,São Paulo,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,107.75,35,São Paulo,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,82.95,41,Paraná,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,37,41,Paraná,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,120.88,41,Paraná,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,85.31,41,Paraná,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,36,41,Paraná,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,115.28,41,Paraná,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,67.30,42,Santa Catarina,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,35,42,Santa Catarina,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,110.79,42,Santa Catarina,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,62.24,42,Santa Catarina,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,35,42,Santa Catarina,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,112.45,42,Santa Catarina,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,86.70,43,Rio Grande do Sul,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,35,43,Rio Grande do Sul,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,100.54,43,Rio Grande do Sul,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,80.32,43,Rio Grande do Sul,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,34,43,Rio Grande do Sul,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,98.86,43,Rio Grande do Sul,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,59.52,50,Mato Grosso do Sul,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,33,50,Mato Grosso do Sul,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,99.61,50,Mato Grosso do Sul,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,58.39,50,Mato Grosso do Sul,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,33,50,Mato Grosso do Sul,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,97.07,50,Mato Grosso do Sul,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,107.54,51,Mato Grosso,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,40,51,Mato Grosso,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,110.02,51,Mato Grosso,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,99.10,51,Mato Grosso,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,38,51,Mato Grosso,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,105.58,51,Mato Grosso,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,43.98,52,Goiás,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,28,52,Goiás,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,105.25,52,Goiás,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,46.33,52,Goiás,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,27,52,Goiás,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,109.09,52,Goiás,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9359,Índice de envelhecimento da população residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,-,53,Distrito Federal,2022,2022,9408,Idade mediana da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9409,Razão de sexo da população residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9421,Índice de envelhecimento da população quilombola residente em territórios quilombolas (Idosos: 60 anos ou mais de idade)
+3,Unidade da Federação,1622,Anos,-,53,Distrito Federal,2022,2022,9422,Idade mediana da população quilombola residente em territórios quilombolas
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9423,Razão de sexo da população quilombola residente em territórios quilombolas

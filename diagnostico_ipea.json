@@ -1,0 +1,81 @@
+{
+  "data_analise": "2025-10-14 02:39:31",
+  "diretorio_projeto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade",
+  "estrutura_pastas": {
+    "data/raw/ipea": {
+      "existe": true,
+      "arquivos": 2,
+      "subpastas": 0,
+      "lista_arquivos": [
+        "inflacao_ipca_raw.csv",
+        "taxa_desocupacao_raw.csv"
+      ],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\raw\\ipea"
+    },
+    "data/processed": {
+      "existe": true,
+      "arquivos": 2,
+      "subpastas": 1,
+      "lista_arquivos": [
+        "inflacao_ipca_processed.csv",
+        "taxa_desocupacao_processed.csv"
+      ],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\processed"
+    },
+    "data/consolidated": {
+      "existe": true,
+      "arquivos": 1,
+      "subpastas": 0,
+      "lista_arquivos": [
+        "ipea_consolidado.csv"
+      ],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\consolidated"
+    },
+    "reports/figures": {
+      "existe": true,
+      "arquivos": 0,
+      "subpastas": 0,
+      "lista_arquivos": [],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\reports\\figures"
+    },
+    "scripts": {
+      "existe": true,
+      "arquivos": 0,
+      "subpastas": 0,
+      "lista_arquivos": [],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\scripts"
+    }
+  },
+  "arquivos_encontrados": {
+    "data/raw/ipea": [],
+    "data/processed": [],
+    "data/consolidated": [],
+    "reports/figures": [],
+    "scripts": []
+  },
+  "qualidade_dados": {
+    "total_arquivos_csv": 0,
+    "total_registros": 0,
+    "arquivos_com_problemas": 4,
+    "problemas": [
+      "Arquivo ausente: data/raw/ipea\\inflacao_ipca_2018_2024.csv",
+      "Arquivo ausente: data/raw/ipea\\taxa_desocupacao_2018_2024.csv",
+      "Arquivo ausente: data/processed\\poder_compra_analise.csv",
+      "Arquivo ausente: data/consolidated\\dados_ipea_consolidados_2018_2024.csv"
+    ]
+  },
+  "estatisticas_arquivos": {
+    "total_arquivos_csv": 0,
+    "total_registros": 0,
+    "pastas_verificadas": 5,
+    "pastas_existentes": 5,
+    "taxa_sucesso_pastas": "100.0%",
+    "diretorio_projeto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade"
+  },
+  "problemas_detectados": [
+    "Arquivo ausente: data/raw/ipea\\inflacao_ipca_2018_2024.csv",
+    "Arquivo ausente: data/raw/ipea\\taxa_desocupacao_2018_2024.csv",
+    "Arquivo ausente: data/processed\\poder_compra_analise.csv",
+    "Arquivo ausente: data/consolidated\\dados_ipea_consolidados_2018_2024.csv"
+  ]
+}

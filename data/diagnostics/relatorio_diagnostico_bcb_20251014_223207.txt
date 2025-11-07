@@ -1,0 +1,92 @@
+RELATORIO DE DIAGNOSTICO - BANCO CENTRAL (SGS)
+============================================================
+
+Data do diagnostico: 2025-10-14 22:32:07.829723
+
+RESUMO EXECUTIVO:
+--------------------
+Arquivos esperados: 9
+Arquivos encontrados: 8
+Arquivos OK: 8
+Arquivos com problemas: 0
+Taxa de sucesso: 88.9%
+Total de linhas: 672
+Total de valores nulos: 0
+
+DETALHES DOS ARQUIVOS:
+--------------------
+
+ipca:
+  Status: OK
+  Linhas: 84
+  Colunas: 2
+  Tamanho: 1.41 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+ipca_acumulado_12m:
+  Status: OK
+  Linhas: 84
+  Colunas: 2
+  Tamanho: 1.41 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+divida_total_familias:
+  Status: OK
+  Linhas: 84
+  Colunas: 2
+  Tamanho: 1.4 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+credito_total:
+  Status: OK
+  Linhas: 84
+  Colunas: 2
+  Tamanho: 1.48 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+credito_pessoal:
+  Status: OK
+  Linhas: 84
+  Colunas: 2
+  Tamanho: 1.48 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+taxa_juros_pessoal:
+  Status: FALTANDO
+
+inadimplencia:
+  Status: OK
+  Linhas: 84
+  Colunas: 2
+  Tamanho: 1.4 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+poupanca:
+  Status: OK
+  Linhas: 84
+  Colunas: 2
+  Tamanho: 1.57 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+impacto_inflacao:
+  Status: OK
+  Linhas: 84
+  Colunas: 4
+  Tamanho: 4.69 KB
+  Valores nulos: 0
+  Periodo: 2018-01-01 a 2024-12-01
+
+PROBLEMAS IDENTIFICADOS:
+-------------------------
+- Arquivo nao encontrado: data/raw/bcb/taxa_juros_pessoal_2018_2024.csv
+
+RECOMENDACOES:
+---------------
+- Executar coleta para 1 arquivo(s) faltando

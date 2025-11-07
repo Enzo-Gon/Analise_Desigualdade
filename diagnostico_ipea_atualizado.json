@@ -1,0 +1,219 @@
+{
+  "data_analise": "2025-11-04 16:30:32",
+  "diretorio_projeto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade",
+  "estrutura_pastas": {
+    "data/raw/ipea": {
+      "existe": true,
+      "arquivos": 2,
+      "subpastas": 0,
+      "lista_arquivos": [
+        "inflacao_ipca_raw.csv",
+        "taxa_desocupacao_raw.csv"
+      ],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\raw\\ipea"
+    },
+    "data/processed": {
+      "existe": true,
+      "arquivos": 6,
+      "subpastas": 1,
+      "lista_arquivos": [
+        "classes_sociais_simplificado.csv",
+        "definicao_classes_sociais.csv",
+        "impacto_inflacao.csv",
+        "inflacao_ipca_processed.csv",
+        "relatorio_coleta.csv",
+        "taxa_desocupacao_processed.csv"
+      ],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\processed"
+    },
+    "data/consolidated": {
+      "existe": true,
+      "arquivos": 1,
+      "subpastas": 0,
+      "lista_arquivos": [
+        "ipea_consolidado.csv"
+      ],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\consolidated"
+    },
+    "reports/figures": {
+      "existe": true,
+      "arquivos": 0,
+      "subpastas": 0,
+      "lista_arquivos": [],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\reports\\figures"
+    },
+    "scripts": {
+      "existe": true,
+      "arquivos": 0,
+      "subpastas": 0,
+      "lista_arquivos": [],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\scripts"
+    }
+  },
+  "arquivos_encontrados": {
+    "data/raw/ipea": [
+      {
+        "arquivo": "inflacao_ipca_raw.csv",
+        "existe": true,
+        "registros": 550,
+        "colunas": 4,
+        "tamanho_kb": 32.67,
+        "colunas_lista": [
+          "VALDATA",
+          "VALVALOR",
+          "SERIE",
+          "CODIGO"
+        ],
+        "periodo_inicio": "1979-12-01",
+        "periodo_fim": "2025-09-01",
+        "valores_nulos": 0,
+        "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\raw\\ipea\\inflacao_ipca_raw.csv",
+        "estatisticas_basicas": {
+          "VALVALOR": {
+            "min": 7.6183e-09,
+            "max": 7359.06,
+            "media": 2382.9292063149946,
+            "desvio_padrao": 2197.376957412609
+          }
+        }
+      },
+      {
+        "arquivo": "taxa_desocupacao_raw.csv",
+        "existe": true,
+        "registros": 163,
+        "colunas": 4,
+        "tamanho_kb": 9.5,
+        "colunas_lista": [
+          "VALDATA",
+          "VALVALOR",
+          "SERIE",
+          "CODIGO"
+        ],
+        "periodo_inicio": "2012-03-01",
+        "periodo_fim": "2025-09-01",
+        "valores_nulos": 0,
+        "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\raw\\ipea\\taxa_desocupacao_raw.csv",
+        "estatisticas_basicas": {
+          "VALVALOR": {
+            "min": 5.6,
+            "max": 14.9,
+            "media": 9.81963190184049,
+            "desvio_padrao": 2.7406374606700243
+          }
+        }
+      }
+    ],
+    "data/processed": [
+      {
+        "arquivo": "inflacao_ipca_processed.csv",
+        "existe": true,
+        "registros": 93,
+        "colunas": 4,
+        "tamanho_kb": 5.38,
+        "colunas_lista": [
+          "VALDATA",
+          "VALVALOR",
+          "SERIE",
+          "CODIGO"
+        ],
+        "periodo_inicio": "2018-01-01",
+        "periodo_fim": "2025-09-01",
+        "valores_nulos": 0,
+        "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\processed\\inflacao_ipca_processed.csv",
+        "estatisticas_basicas": {
+          "VALVALOR": {
+            "min": 4930.72,
+            "max": 7359.06,
+            "media": 6049.736774193548,
+            "desvio_padrao": 784.8763968559987
+          }
+        }
+      },
+      {
+        "arquivo": "taxa_desocupacao_processed.csv",
+        "existe": true,
+        "registros": 93,
+        "colunas": 4,
+        "tamanho_kb": 5.44,
+        "colunas_lista": [
+          "VALDATA",
+          "VALVALOR",
+          "SERIE",
+          "CODIGO"
+        ],
+        "periodo_inicio": "2018-01-01",
+        "periodo_fim": "2025-09-01",
+        "valores_nulos": 0,
+        "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\processed\\taxa_desocupacao_processed.csv",
+        "estatisticas_basicas": {
+          "VALVALOR": {
+            "min": 5.6,
+            "max": 14.9,
+            "media": 10.386021505376345,
+            "desvio_padrao": 2.866507926935607
+          }
+        }
+      }
+    ],
+    "data/consolidated": [
+      {
+        "arquivo": "ipea_consolidado.csv",
+        "existe": true,
+        "registros": 186,
+        "colunas": 4,
+        "tamanho_kb": 10.79,
+        "colunas_lista": [
+          "VALDATA",
+          "VALVALOR",
+          "SERIE",
+          "CODIGO"
+        ],
+        "periodo_inicio": "2018-01-01",
+        "periodo_fim": "2025-09-01",
+        "valores_nulos": 0,
+        "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\consolidated\\ipea_consolidado.csv",
+        "estatisticas_basicas": {
+          "VALVALOR": {
+            "min": 5.6,
+            "max": 7359.06,
+            "media": 3030.061397849462,
+            "desvio_padrao": 3077.9998143055595
+          }
+        }
+      }
+    ],
+    "reports/figures": [],
+    "scripts": []
+  },
+  "qualidade_dados": {
+    "total_arquivos_csv": 5,
+    "total_registros": 1085,
+    "arquivos_com_problemas": 0,
+    "problemas": [],
+    "dados_consolidados": {
+      "registros": 186,
+      "colunas": 4,
+      "valores_nulos": 0,
+      "colunas_disponiveis": [
+        "VALDATA",
+        "VALVALOR",
+        "SERIE",
+        "CODIGO"
+      ],
+      "caminho_absoluto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade\\data\\consolidated\\ipea_consolidado.csv",
+      "periodo": {
+        "inicio": "2018-01-01",
+        "fim": "2025-09-01"
+      }
+    }
+  },
+  "estatisticas_arquivos": {
+    "total_arquivos_csv": 5,
+    "total_registros": 1085,
+    "pastas_verificadas": 5,
+    "pastas_existentes": 5,
+    "taxa_sucesso_pastas": "100.0%",
+    "diretorio_projeto": "C:\\Users\\Enzo\\Documents\\Projetos\\projeto_desigualdade"
+  },
+  "problemas_detectados": []
+}

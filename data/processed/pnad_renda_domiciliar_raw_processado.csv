@@ -1,0 +1,23 @@
+nivel_territorial_codigo,nivel_territorial_nome,unidade_medida_codigo,unidade_medida_nome,valor,dimensao1_codigo,dimensao1_nome,dimensao2_codigo,dimensao2_nome,dimensao3_codigo,dimensao3_nome,valor_convertido
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Brasil (Código),Brasil,Ano (Código),Ano,Variável (Código),Variável,
+1,Brasil,45,Pessoas,172385826,1,Brasil,2001,2001,9324,População residente estimada,172385826.0
+1,Brasil,45,Pessoas,174632960,1,Brasil,2002,2002,9324,População residente estimada,174632960.0
+1,Brasil,45,Pessoas,176871437,1,Brasil,2003,2003,9324,População residente estimada,176871437.0
+1,Brasil,45,Pessoas,181569056,1,Brasil,2004,2004,9324,População residente estimada,181569056.0
+1,Brasil,45,Pessoas,184184264,1,Brasil,2005,2005,9324,População residente estimada,184184264.0
+1,Brasil,45,Pessoas,186770562,1,Brasil,2006,2006,9324,População residente estimada,186770562.0
+1,Brasil,45,Pessoas,189605006,1,Brasil,2008,2008,9324,População residente estimada,189605006.0
+1,Brasil,45,Pessoas,191480630,1,Brasil,2009,2009,9324,População residente estimada,191480630.0
+1,Brasil,45,Pessoas,192379287,1,Brasil,2011,2011,9324,População residente estimada,192379287.0
+1,Brasil,45,Pessoas,193904015,1,Brasil,2012,2012,9324,População residente estimada,193904015.0
+1,Brasil,45,Pessoas,201032714,1,Brasil,2013,2013,9324,População residente estimada,201032714.0
+1,Brasil,45,Pessoas,202768562,1,Brasil,2014,2014,9324,População residente estimada,202768562.0
+1,Brasil,45,Pessoas,204450049,1,Brasil,2015,2015,9324,População residente estimada,204450049.0
+1,Brasil,45,Pessoas,206081432,1,Brasil,2016,2016,9324,População residente estimada,206081432.0
+1,Brasil,45,Pessoas,207660929,1,Brasil,2017,2017,9324,População residente estimada,207660929.0
+1,Brasil,45,Pessoas,208494900,1,Brasil,2018,2018,9324,População residente estimada,208494900.0
+1,Brasil,45,Pessoas,210147125,1,Brasil,2019,2019,9324,População residente estimada,210147125.0
+1,Brasil,45,Pessoas,211755692,1,Brasil,2020,2020,9324,População residente estimada,211755692.0
+1,Brasil,45,Pessoas,213317639,1,Brasil,2021,2021,9324,População residente estimada,213317639.0
+1,Brasil,45,Pessoas,212583750,1,Brasil,2024,2024,9324,População residente estimada,212583750.0
+1,Brasil,45,Pessoas,213421037,1,Brasil,2025,2025,9324,População residente estimada,213421037.0

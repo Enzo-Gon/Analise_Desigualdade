@@ -1,0 +1,164 @@
+NC,NN,MC,MN,V,D1C,D1N,D2C,D2N,D3C,D3N,D4C,D4N
+Nível Territorial (Código),Nível Territorial,Unidade de Medida (Código),Unidade de Medida,Valor,Unidade da Federação (Código),Unidade da Federação,Ano (Código),Ano,Variável (Código),Variável,Quesito de declaração indígena (Código),Quesito de declaração indígena
+3,Unidade da Federação,1702,Razão,13.12,11,Rondônia,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,19,11,Rondônia,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,108.72,11,Rondônia,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,12.22,11,Rondônia,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,19,11,Rondônia,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,108.45,11,Rondônia,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,7.61,12,Acre,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,15,12,Acre,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,106.90,12,Acre,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,7.45,12,Acre,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,15,12,Acre,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,106.68,12,Acre,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,13.63,13,Amazonas,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,13,Amazonas,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,108.50,13,Amazonas,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,13.61,13,Amazonas,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,13,Amazonas,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,108.07,13,Amazonas,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,11.59,14,Roraima,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,14,Roraima,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,106.87,14,Roraima,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,10.91,14,Roraima,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,16,14,Roraima,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,106.85,14,Roraima,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,11.18,15,Pará,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,18,15,Pará,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,108.07,15,Pará,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,9.69,15,Pará,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,15,Pará,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,104.35,15,Pará,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,10.51,16,Amapá,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,18,16,Amapá,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,111.08,16,Amapá,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,10.39,16,Amapá,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,18,16,Amapá,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,110.71,16,Amapá,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,11.64,17,Tocantins,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,18,17,Tocantins,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,109.20,17,Tocantins,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,9.73,17,Tocantins,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,17,Tocantins,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,106.08,17,Tocantins,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,10.71,21,Maranhão,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,21,Maranhão,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.95,21,Maranhão,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,9.91,21,Maranhão,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,16,21,Maranhão,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,104.22,21,Maranhão,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,37.84,22,Piauí,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,26,22,Piauí,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,137.68,22,Piauí,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,50.00,22,Piauí,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,27,22,Piauí,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,153.33,22,Piauí,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,32.69,23,Ceará,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,27,23,Ceará,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,101.40,23,Ceará,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,28.34,23,Ceará,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,26,23,Ceará,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,99.34,23,Ceará,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,24,Rio Grande do Norte,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,-,24,Rio Grande do Norte,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,24,Rio Grande do Norte,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,24,Rio Grande do Norte,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,-,24,Rio Grande do Norte,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,24,Rio Grande do Norte,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,43.47,25,Paraíba,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,29,25,Paraíba,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,98.01,25,Paraíba,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,34.41,25,Paraíba,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,27,25,Paraíba,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,99.18,25,Paraíba,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,42.34,26,Pernambuco,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,27,26,Pernambuco,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,97.24,26,Pernambuco,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,36.57,26,Pernambuco,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,26,26,Pernambuco,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,103.74,26,Pernambuco,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,34.51,27,Alagoas,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,26,27,Alagoas,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,104.90,27,Alagoas,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,27.55,27,Alagoas,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,24,27,Alagoas,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.23,27,Alagoas,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,47.56,28,Sergipe,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,31,28,Sergipe,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.59,28,Sergipe,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,47.56,28,Sergipe,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,31,28,Sergipe,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.63,28,Sergipe,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,25.30,29,Bahia,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,24,29,Bahia,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.77,29,Bahia,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,23.29,29,Bahia,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,23,29,Bahia,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.65,29,Bahia,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,19.01,31,Minas Gerais,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,21,31,Minas Gerais,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,104.77,31,Minas Gerais,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,18.71,31,Minas Gerais,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,21,31,Minas Gerais,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.29,31,Minas Gerais,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,22.50,32,Espírito Santo,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,24,32,Espírito Santo,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.63,32,Espírito Santo,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,22.61,32,Espírito Santo,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,23,32,Espírito Santo,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.60,32,Espírito Santo,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,10.53,33,Rio de Janeiro,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,16,33,Rio de Janeiro,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,111.63,33,Rio de Janeiro,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,10.53,33,Rio de Janeiro,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,16,33,Rio de Janeiro,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,111.63,33,Rio de Janeiro,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,18.63,35,São Paulo,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,20,35,São Paulo,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,104.38,35,São Paulo,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,14.10,35,São Paulo,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,19,35,São Paulo,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.67,35,São Paulo,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,17.85,41,Paraná,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,22,41,Paraná,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,98.54,41,Paraná,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,16.62,41,Paraná,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,21,41,Paraná,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,97.85,41,Paraná,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,28.29,42,Santa Catarina,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,24,42,Santa Catarina,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,107.70,42,Santa Catarina,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,17.72,42,Santa Catarina,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,22,42,Santa Catarina,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,105.05,42,Santa Catarina,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,17.62,43,Rio Grande do Sul,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,22,43,Rio Grande do Sul,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.83,43,Rio Grande do Sul,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,15.13,43,Rio Grande do Sul,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,22,43,Rio Grande do Sul,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.06,43,Rio Grande do Sul,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,18.22,50,Mato Grosso do Sul,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,20,50,Mato Grosso do Sul,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,103.06,50,Mato Grosso do Sul,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,17.68,50,Mato Grosso do Sul,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,20,50,Mato Grosso do Sul,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.40,50,Mato Grosso do Sul,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,10.55,51,Mato Grosso,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,51,Mato Grosso,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.51,51,Mato Grosso,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,9.60,51,Mato Grosso,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,17,51,Mato Grosso,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,102.07,51,Mato Grosso,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,37.07,52,Goiás,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,28,52,Goiás,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,108.90,52,Goiás,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,25.66,52,Goiás,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,24,52,Goiás,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,104.76,52,Goiás,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9308,Índice de envelhecimento da população residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,-,53,Distrito Federal,2022,2022,9309,Idade mediana da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9353,Razão de sexo da população residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9414,Índice de envelhecimento da população indígena residente em terras indígenas (Idosos: 60 anos ou mais de idade),60024,Total
+3,Unidade da Federação,1622,Anos,-,53,Distrito Federal,2022,2022,9415,Idade mediana da população indígena residente em terras indígenas,60024,Total
+3,Unidade da Federação,1702,Razão,-,53,Distrito Federal,2022,2022,9416,Razão de sexo da população indígena residente em terras indígenas,60024,Total
