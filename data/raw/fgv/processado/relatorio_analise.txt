@@ -1,0 +1,32 @@
+RELATÓRIO DE ANÁLISE - DESIGUALDADE SOCIAL (FGV)
+============================================================
+
+Data da análise: 05/11/2025 20:59
+Diretório: C:\Users\Pedro\Documents\coisas que o FDP do ENZO quer\data\raw\fgv
+
+DISTRIBUIÇÃO DE CLASSES SOCIAIS:
+----------------------------------------
+- Extrema Pobreza: 7.5% (R$ 330)
+- Pobreza: 11.4% (R$ 990)
+- Vulnerabilidade: 21.2% (R$ 1,980)
+- Classe Média Baixa: 25.8% (R$ 3,960)
+- Classe Média: 23.1% (R$ 9,240)
+- Classe Média Alta: 7.3% (R$ 18,480)
+- Classe Alta: 3.7% (R$ 45,000)
+
+RESUMO:
+- População em situação vulnerável: 40.1%
+- População classe média/alta: 34.1%
+
+EVOLUÇÃO TEMPORAL (2012-2023):
+----------------------------------------
+- Pobreza: 25.5% → 18.9%
+- Extrema pobreza: 8.5% → 7.5%
+- Classe média: 52.3% → 58.9%
+- Desigualdade (Gini): 0.527 → 0.492
+
+IMPACTO DA PANDEMIA:
+----------------------------------------
+- Aumento da pobreza (2019-2020): +5.5pp
+- Aumento da extrema pobreza (2019-2020): +3.7pp
+- Recuperação (2020-2023): -2.5pp

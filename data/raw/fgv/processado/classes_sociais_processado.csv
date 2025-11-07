@@ -1,0 +1,8 @@
+classe_social,percentual_populacao,renda_media_mensal,faixa_renda_sm
+Extrema Pobreza,7.5,330.0,"Até 0,25 SM"
+Pobreza,11.4,990.0,"0,25-1 SM"
+Vulnerabilidade,21.2,1980.0,1-2 SM
+Classe Média Baixa,25.8,3960.0,2-4 SM
+Classe Média,23.1,9240.0,4-10 SM
+Classe Média Alta,7.3,18480.0,10-20 SM
+Classe Alta,3.7,45000.0,Acima de 20 SM
